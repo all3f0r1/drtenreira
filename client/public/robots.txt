@@ -1,0 +1,6 @@
+# robots.txt pour Dr. Tenreira
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://drtenreira.be/sitemap.xml
