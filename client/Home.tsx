@@ -383,7 +383,7 @@ export default function Home() {
               <ScrollReveal delay={400}>
                 <div className="flex items-center justify-center gap-2 mt-6 p-4 bg-accent/10 rounded-lg">
                   <span className="font-semibold text-accent">Langues parlées :</span>
-                  <span className="text-foreground">Français, Anglais, Portugais</span>
+                  <span className="text-foreground">Français, Anglais, Espagnol et Portugais</span>
                 </div>
               </ScrollReveal>
             </div>
